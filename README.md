@@ -32,6 +32,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Screenshots of generated app!
 
-![Screenshot of Deployed app]()
-
-![Screenshot of Deployed app]()
+![Screenshot of Deployed app](/screenshots/insomniaRoutes.png)
