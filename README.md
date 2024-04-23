@@ -28,6 +28,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Video of working app!
 
+[Untitled_ Apr 23, 2024 4_40 PM.webm](https://github.com/jacksonjjones/regular_cake/assets/152823903/ad82d187-5760-4c88-997b-f355c18e56b3)
+
 ## Link to video of working app!
 
 https://drive.google.com/file/d/1fY5onUfacCtebAZDVYucW6aBH7fz21ex/view
