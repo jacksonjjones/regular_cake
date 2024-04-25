@@ -1,7 +1,15 @@
-const mongoose = require("mongoose");
+const { connect, connection } = require("mongoose");
 
-mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost:27017/thesocialnetworkdb"
-);
+const connectionString = "mongodb://localhost:27017/thesocialnetworkdb";
 
-module.exports = mongoose.connection;
+connect(connectionString);
+
+module.exports = connection;
+
+// const mongoose = require("mongoose");
+
+// mongoose.connect(
+//  process.env.MONGODB_URI || "mongodb://localhost:27017/thesocialnetworkdb"
+// );
+
+// module.exports = mongoose.connection;
